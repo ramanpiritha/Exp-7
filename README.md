@@ -310,7 +310,7 @@ int main() {
 }
 ~~~
 ## Output:
-<img width="588" height="312" alt="image" src="https://github.com/user-attachments/assets/1526cfee-fe67-4692-a039-f1c9dddb2884" />
+<img width="677" height="433" alt="image" src="https://github.com/user-attachments/assets/878f8662-c501-4758-842e-6122cb6309ea" />
 
 ## Result:
 Thus, the program is verified successfully.
